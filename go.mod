@@ -1,4 +1,4 @@
-module go-gin-gorm-crud
+module github.com/nandreanurag/go-gin-gorm-postgres-crud
 
 go 1.22.3
 
